@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Micheal Sanchez",
+        "description": "Accountant",
+        "salary": 11000 
+    },
+    {
+        "id": "2",
+        "name": "Lewis Jamson",
+        "description": "Engineer",
+        "salary": 15000 
+    },
+    {
+        "id": "3",
+        "name": "Collins Tony",
+        "description": "Lawyer",
+        "salary": 13000 
+    },
+    {
+        "id": "4",
+        "name": "Rodrigo Diaz",
+        "description": "Musician",
+        "salary": 4000 
+    }
+]
